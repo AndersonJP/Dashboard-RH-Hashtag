@@ -1,5 +1,5 @@
 # 📊 Dashboard de RH - Hashtag
-<img src="" />
+<img src="https://gufoweb.com.br/wp-content/uploads/2026/06/Captura-de-tela-2026-06-20-194007.png" />
 
 ---
 
@@ -9,12 +9,15 @@ Projeto desenvolvido para demonstrar competências em análise de dados aplicada
 ---
 
 # 🎯 Problema de Negócio
-A área de RH precisava responder às seguintes perguntas:
-- Qual o nível de satisfação dos colaboradores?
-- Como está o engajamento dos funcionários?
-- Quais departamentos apresentam melhores resultados?
-- Como está a avaliação de desempenho da organização?
-- Existe equilíbrio entre vida pessoal e trabalho (Work-Life Balance)?
+ área de RH precisava responder às seguintes perguntas:
+ - Monitorar crescimento do quadro de funcionários.
+ - Avaliar a taxa de turnover da empresa.
+ - Analisar distribuição geográfica dos colaboradores.
+ - Acompanhar indicadores de diversidade.
+ - Entender a composição dos cargos.
+ - Identificar áreas com maior concentração de pessoas.
+ - Apoiar decisões de recrutamento e retenção.
+ - Auxiliar o planejamento estratégico de RH.
 
 ---
 
@@ -31,15 +34,10 @@ A área de RH precisava responder às seguintes perguntas:
 
 # 📈 Indicadores Desenvolvidos
 
-✅ Número Total de Funcionários
-
-✅ Nível Médio de Engajamento
-
-✅ Nível Médio de Satisfação
-
-✅ Work-Life Balance
-
-✅ Avaliação de Desempenho
+ - Contratações
+ - Funcionários Ativos
+ - Demissões
+ - Turnover (%)
 
 ---
 
